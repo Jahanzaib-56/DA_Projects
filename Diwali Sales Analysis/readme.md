@@ -38,17 +38,3 @@ Here’s what we uncovered from the data:
 | **Jupyter Notebook** | Interactive Analysis |
 
 ---
-
-## 📸 Visual Highlights
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Sales+by+Gender" alt="Sales by Gender" width="500">
-  <img src="https://via.placeholder.com/600x300?text=Top+States+by+Sales" alt="Top States" width="500">
-</p>
-
-> *(Replace placeholder URLs with your actual charts or notebook screenshots.)*
-
----
-
-## 📁 Folder Structure
-
